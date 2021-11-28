@@ -37,7 +37,13 @@ Some important points to note here are :-
 * The NFT artist will be able to choose between the stage 1 style payments system or the normal wallet interaction system that we’re all familiar with.
 * Artists will have to pay for a domain name, but there will also be a free plan to allow smaller artists to get started!
 
+### Extensions
 
+Extensions will play a major role in stage 2 of avocado+, similar to how Shopify has extensions which allow you to improve the functionality of your store.
+
+We’re in talks with many projects already about building integrations and extensions with their projects. Some initial extensions will provide functionalities such as allowing the buyer to directly list their newly bought NFT on other marketplaces, allowing buyers to buy NFTs directly via fiat, and much more.
+
+Please reach out to us regarding any ideas you might have for any other extensions, we're open to ideas.
 
 &#x20;
 
