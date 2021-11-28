@@ -22,7 +22,7 @@ Some important points to note here are :-
 * You can provide the buyer with a random NFT or a specific NFT, depending upon your project’s needs.
 * You can bulk upload the NFTs to our platform.
 
-The main motive behind is API is to give full freedom to the artist on how they want to sell their NFTs.&#x20;
+The main motive behind the API is to give full freedom to the artist on how they want to sell their NFTs.&#x20;
 
 We will charge minimal fees for handling these NFTs sales and for use of our API, those fees will be announced once the project is up and running. You will be required to pay the fees, only if your NFT is sold otherwise you can keep using our service for free. The fees will be automatically deducted from the payment made by the buyer.
 
