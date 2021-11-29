@@ -6,3 +6,5 @@
 
 * [🛣 Roadmap](project/roadmap/README.md)
   * [🥑 Avocado+](project/roadmap/avocado+.md)
+  * [🦴 Lazybones](project/roadmap/lazybones.md)
+  * [🥑 Avocado](project/roadmap/avocado.md)
