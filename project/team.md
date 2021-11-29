@@ -20,9 +20,13 @@
 
 #### UX and UI Designer
 
+Safa is a UX designer with a master's degree in interaction design. He's been working as a consultant for more than six years, focusing on UX for complex systems.&#x20;
+
 ### JD
 
 #### UI Designer
+
+JD is an entrepreneur and designer from Boston, MA and is passionate in building digital products that users love. His experience in SaaS startups and digital marketing agencies has helped him to hone his skills in sales, marketing, and design.
 
 ### AlbrechtQvitte
 
