@@ -13,6 +13,14 @@ We will be launching various apps/dapps on a timeline, outlined below.
 
 Read more about our projects here:
 
+{% content-ref url="avocado.md" %}
+[avocado.md](avocado.md)
+{% endcontent-ref %}
+
 {% content-ref url="avocado+.md" %}
 [avocado+.md](avocado+.md)
+{% endcontent-ref %}
+
+{% content-ref url="lazybones.md" %}
+[lazybones.md](lazybones.md)
 {% endcontent-ref %}
