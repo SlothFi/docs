@@ -35,3 +35,7 @@
 #### Community Manager/ Advisor
 
 Crypto passionate, strong background as a CM in big GameFi and DeFi. He’s also senior software engineer and data scientist. He's also working as a B.A.R.D in DeFi Kingdoms, community manager and marketing principal for Tranquil Finance and community manager as well as project advisor for Ragnarök.
+
+### Harma
+
+#### Community Manager
