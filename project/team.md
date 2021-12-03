@@ -12,7 +12,7 @@
 
 #### Backend Developer
 
-
+Floyd is currently working as a platform engineer, managing PaaS and everything related to telemetry and web performance. 10+ years experience as a backend developer, in particular building APIs for telecom and health startups SaaS products and for governmental and financial institutions.
 
 ## Design
 
@@ -32,6 +32,8 @@ JD is an entrepreneur and designer from Boston, MA and is passionate in building
 
 #### Graphic Designer
 
+AlbrechtQvitte has a background in traditional painting and printmaking, occasionally dabbling into 2d animation and pixel art. He has experience in character design applied to pixel medium, and translating real life objects into pixel works.
+
 ## Public Relations
 
 ### Mighty M
@@ -43,3 +45,5 @@ Crypto passionate, strong background as a CM in big GameFi and DeFi. He’s also
 ### Harma
 
 #### Community Manager
+
+Harma is a crypto enthusiast from the Netherlands that loves bringing ideas to life. With experience in content creation, community management and overall operations.\
