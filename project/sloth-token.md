@@ -11,6 +11,6 @@ A brief summary of the use-cases for the token:-
 5. Payments received from sale of SLOTH NFTs will be used to buyback $SLOTH token.
 6. $SLOTH will serve as the governance token for all products launched by SlothFi.
 
-### Tokeneconomics
+### Tokenomics
 
 TBD
