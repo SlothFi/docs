@@ -20,4 +20,4 @@ We wanted to build a NFT marketplace but there are already so many of them. We r
 
 ### SLOTH Token
 
-While we're building projects, we also wanted our users to have a stake in the project and a profit from the income we make from these projects. Thus, we decided to launch our own token SLOTH, which will be launched in Feburary 2022.
+While we're building projects, we also wanted our users to have a stake in the project and a profit from the income we make from these projects. Thus, we decided to launch our own token SLOTH, which will be launched in February 2022.
