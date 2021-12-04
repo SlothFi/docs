@@ -4,6 +4,7 @@
 
 ## 📂 Project
 
+* [🪙 SLOTH token](project/sloth-token.md)
 * [🛣 Roadmap](project/roadmap/README.md)
   * [🥑 Avocado](project/roadmap/avocado.md)
   * [🥑 Avocado+](project/roadmap/avocado+.md)
