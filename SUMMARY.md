@@ -10,4 +10,4 @@
   * [🥑 Avocado+](project/roadmap/avocado+.md)
   * [🦴 Lazybones](project/roadmap/lazybones.md)
 * [❓ FAQ](project/faq.md)
-* [👨🏫 Team](project/team.md)
+* [👨🏫 👨🏫 Team](project/team.md)
